@@ -1,4 +1,4 @@
-# Android-Weather-Application
+# Android_Weather_Application
 
 This is a full working application that can be installed on any Android device running Android KitKat(4.4)
 
