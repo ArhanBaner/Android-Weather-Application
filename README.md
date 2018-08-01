@@ -1,4 +1,6 @@
-# Android_Weather_Application
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/121eb803147946a396e1aff016ac3527)](https://www.codacy.com/project/banerjeeruku/Android_Weather_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArhanBaner/Android_Weather_Application&amp;utm_campaign=Badge_Grade_Dashboard)
+
+# Android Weather Application
 
 ## Introduction
 
@@ -7,7 +9,7 @@ This is a fully working application that can be installed on any Android device 
 This app takes the user's location (with their permission) and sends the data to Openweather API which returns the current 
 weather to the device. The device then takes this data and outputs the correct image and text (Up to 20 different scenarios) to the user.
 
-Codacy Level A Badge: [![Codacy Badge](https://api.codacy.com/project/badge/Grade/121eb803147946a396e1aff016ac3527)](https://www.codacy.com/project/banerjeeruku/Android_Weather_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArhanBaner/Android_Weather_Application&amp;utm_campaign=Badge_Grade_Dashboard)
+
 
 ### ------Known Issues-------
 
