@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/121eb803147946a396e1aff016ac3527)](https://www.codacy.com/project/banerjeeruku/Android_Weather_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArhanBaner/Android_Weather_Application&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/121eb803147946a396e1aff016ac3527)](https://www.codacy.com/project/banerjeeruku/Android_Weather_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArhanBaner/Android_Weather_Application&amp;utm_campaign=Badge_Grade_Dashboard)   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Android Weather Application
 
