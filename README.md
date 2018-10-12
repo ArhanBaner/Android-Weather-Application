@@ -15,7 +15,7 @@ weather to the device. The device then takes this data and outputs the correct i
 
  - If location is not enabled or given permission to, the application will stay on the startup screen and will force quit after one minute to save system resources
  
- - Due to this being an open source API, the appliation will only refresh every two hours to get the current weather data from OpenWeather. As a result, I have added the time it was last refreshed on the top of the application
+ - Due to this utilizing a free open source API, the appliation will only refresh every two hours to get the current weather data from OpenWeather. As a result, I have added the time it was last refreshed on the top of the application
 
 ### Images
 
